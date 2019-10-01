@@ -1,0 +1,9 @@
+.carousel-item-padding{
+    padding: 100px 250px;
+}
+.add-section{
+    background-image: url("../images/th3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-position: fixed;*/
+}
